@@ -5,3 +5,4 @@ It consists in a Python Dash web application created for handling temperature da
 Includes the capability to generate PDF reports for both real-time monitoring and historical analysis.
 
 Stay tuned for the official release!
+
