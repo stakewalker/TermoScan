@@ -1,0 +1,49 @@
+{
+    "clp_1": {
+        "modelo": "CompactLogix L36",
+        "versao_firmware": "32",
+        "ip": "192.168.1.36",
+        "online": "true",
+        "sensores": [
+            "sensor_1",
+            "sensor_2",
+            "sensor_3"
+        ]
+    },
+    "clp_2": {
+        "modelo": "Siemens S7",
+        "versao_firmware": "2.5",
+        "ip": "192.168.1.7",
+        "online": "true",
+        "sensores": [
+            "sensor_a",
+            "sensor_b",
+            "sensor_c"
+        ]
+    },
+    "clp_3": {
+        "modelo": "MicroLogix 830",
+        "versao_firmware": "25",
+        "ip": "192.168.1.83",
+        "online": "true",
+        "sensores": [
+            "sensor_x",
+            "sensor_y",
+            "sensor_z"
+        ]
+    },
+    "clp_4": {
+        "modelo": "Schneider M241",
+        "ip": "192.168.1.241",
+        "versao_firmware": "2.52",
+        "online": "true",
+        "sensores": []
+    },
+    "clp_5": {
+        "modelo": "MicroLogix 1400",
+        "ip": "192.168.1.140",
+        "versao_firmware": "21",
+        "online": "true",
+        "sensores": []
+    }
+}
