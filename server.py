@@ -163,4 +163,3 @@ def toggle_active_links(pathname):
 
 if __name__ == "__main__":
     termoscan.run_server(debug=True)
-
