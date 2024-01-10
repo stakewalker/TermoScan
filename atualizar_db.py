@@ -24,3 +24,4 @@ while True:
     atualizar_temperaturas()
     print(f"{datetime.now().strftime('%H:%M')} Banco de Dados atualizado!")
     sleep(60)
+
