@@ -1,4 +1,4 @@
-from pycomm3 import LogixDriver
+ufrom pycomm3 import LogixDriver
 from datetime import datetime
 from time import sleep
 import csv
